@@ -1,0 +1,23 @@
+{
+  "experiment_date": "2026-10-28",
+  "generated_at_asia_shanghai": "2026-10-28T21:36:51.974461+08:00",
+  "python": "3.11.9 (v3.11.9:de54cf5be3, Apr  2 2024, 07:12:50) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-15.7.7-arm64-arm-64bit",
+  "machine": "arm64",
+  "processor": "arm",
+  "cpu_count": 10,
+  "repeats_excluding_warmup": 5,
+  "warmup_runs_per_puzzle_strategy": 1,
+  "timeout_seconds_per_run": 1.0,
+  "timed_region": "SudokuSolver.solve only; file input and printing excluded",
+  "metric_definitions": {
+    "forward_checks": "calls to forward_check after tentative assignments",
+    "peer_checks": "unassigned peer domains actually evaluated inside forward_check"
+  },
+  "strategies": [
+    "plain",
+    "mrv",
+    "mrv-fc"
+  ],
+  "selection_rule": "first 5 easy50, first 5 top95, first 3 hardest; fixed before running"
+}

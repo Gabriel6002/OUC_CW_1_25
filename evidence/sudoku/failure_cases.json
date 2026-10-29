@@ -1,0 +1,35 @@
+[
+  {
+    "case_id": "duplicate_given",
+    "expected": "invalid_input",
+    "actual": "rejected",
+    "message": "Duplicate given in row 1"
+  },
+  {
+    "case_id": "eight_rows",
+    "expected": "invalid_input",
+    "actual": "rejected",
+    "message": "Expected 9 non-empty rows, found 8"
+  },
+  {
+    "case_id": "non_integer",
+    "expected": "invalid_input",
+    "actual": "rejected",
+    "message": "Row 1 contains a non-integer value"
+  },
+  {
+    "case_id": "out_of_range",
+    "expected": "invalid_input",
+    "actual": "rejected",
+    "message": "Row 1 contains a value outside 0..9"
+  },
+  {
+    "case_id": "structurally_valid_unsolvable",
+    "expected": "no_solution",
+    "actual": "no_solution",
+    "runtime_ms": 0.08212495595216751,
+    "nodes": 3,
+    "assignments": 3,
+    "backtracks": 3
+  }
+]

@@ -1,0 +1,4 @@
+hard_04 plain: solved, 1007.491 ms, nodes=392886, backtracks=392821
+hard_04 mrv: solved, 1131.063 ms, nodes=128756, backtracks=128691
+hard_04 mrv-fc: solved, 1435.819 ms, nodes=76717, backtracks=88992
+/Users/hd/Documents/Codex/2026-10-27/submit-your-coursework-1-solution-here-2/work/complete_assignment/F29AI_CW1/sudoku/results/h4_extended.json

@@ -1,0 +1,45 @@
+{
+  "generated_at_asia_shanghai": "2026-10-28T21:35:48.777990+08:00",
+  "purpose": "Longer-window follow-up for H4 after all 1-second trials timed out",
+  "records": [
+    {
+      "puzzle_id": "hard_04",
+      "strategy": "plain",
+      "timeout_seconds": 30.0,
+      "status": "solved",
+      "runtime_ms": 1007.49125,
+      "nodes": 392886,
+      "assignments": 392885,
+      "backtracks": 392821,
+      "forward_check_calls": 0,
+      "peer_domain_checks": 0,
+      "solution_hash": "16dfa3fe37063760"
+    },
+    {
+      "puzzle_id": "hard_04",
+      "strategy": "mrv",
+      "timeout_seconds": 30.0,
+      "status": "solved",
+      "runtime_ms": 1131.062875,
+      "nodes": 128756,
+      "assignments": 128755,
+      "backtracks": 128691,
+      "forward_check_calls": 0,
+      "peer_domain_checks": 0,
+      "solution_hash": "16dfa3fe37063760"
+    },
+    {
+      "puzzle_id": "hard_04",
+      "strategy": "mrv-fc",
+      "timeout_seconds": 30.0,
+      "status": "solved",
+      "runtime_ms": 1435.818667,
+      "nodes": 76717,
+      "assignments": 89056,
+      "backtracks": 88992,
+      "forward_check_calls": 89056,
+      "peer_domain_checks": 752418,
+      "solution_hash": "16dfa3fe37063760"
+    }
+  ]
+}

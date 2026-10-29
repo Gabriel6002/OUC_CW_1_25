@@ -1,0 +1,14 @@
+puzzle_id,source_label,source_file,source_index,source_url,clue_count,selection_rule,file
+easy_01,easy,easy50.txt,1,https://norvig.com/easy50.txt,32,first 5 puzzles in easy50.txt,benchmarks/easy_01.txt
+easy_02,easy,easy50.txt,2,https://norvig.com/easy50.txt,30,first 5 puzzles in easy50.txt,benchmarks/easy_02.txt
+easy_03,easy,easy50.txt,3,https://norvig.com/easy50.txt,28,first 5 puzzles in easy50.txt,benchmarks/easy_03.txt
+easy_04,easy,easy50.txt,4,https://norvig.com/easy50.txt,30,first 5 puzzles in easy50.txt,benchmarks/easy_04.txt
+easy_05,easy,easy50.txt,5,https://norvig.com/easy50.txt,36,first 5 puzzles in easy50.txt,benchmarks/easy_05.txt
+hard_01,hard,top95.txt,1,https://norvig.com/top95.txt,17,first 5 puzzles in top95.txt,benchmarks/hard_01.txt
+hard_02,hard,top95.txt,2,https://norvig.com/top95.txt,17,first 5 puzzles in top95.txt,benchmarks/hard_02.txt
+hard_03,hard,top95.txt,3,https://norvig.com/top95.txt,17,first 5 puzzles in top95.txt,benchmarks/hard_03.txt
+hard_04,hard,top95.txt,4,https://norvig.com/top95.txt,17,first 5 puzzles in top95.txt,benchmarks/hard_04.txt
+hard_05,hard,top95.txt,5,https://norvig.com/top95.txt,17,first 5 puzzles in top95.txt,benchmarks/hard_05.txt
+hardest_01,hardest,hardest.txt,1,https://norvig.com/hardest.txt,22,first 3 puzzles in hardest.txt,benchmarks/hardest_01.txt
+hardest_02,hardest,hardest.txt,2,https://norvig.com/hardest.txt,23,first 3 puzzles in hardest.txt,benchmarks/hardest_02.txt
+hardest_03,hardest,hardest.txt,3,https://norvig.com/hardest.txt,26,first 3 puzzles in hardest.txt,benchmarks/hardest_03.txt

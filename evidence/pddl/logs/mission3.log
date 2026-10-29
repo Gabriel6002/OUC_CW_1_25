@@ -1,0 +1,21 @@
+2026-10-28 21:37:10,453 INFO     using search: astar_search
+2026-10-28 21:37:10,454 INFO     using heuristic: hAddHeuristic
+2026-10-28 21:37:10,454 INFO     Parsing Domain /Users/hd/Documents/Codex/2026-10-27/submit-your-coursework-1-solution-here-2/work/complete_assignment/F29AI_CW1/PartC/domain-ext.pddl
+2026-10-28 21:37:10,456 INFO     Parsing Problem /Users/hd/Documents/Codex/2026-10-27/submit-your-coursework-1-solution-here-2/work/complete_assignment/F29AI_CW1/PartC/mission3.pddl
+2026-10-28 21:37:10,456 INFO     19 Predicates parsed
+2026-10-28 21:37:10,456 INFO     8 Actions parsed
+2026-10-28 21:37:10,456 INFO     22 Objects parsed
+2026-10-28 21:37:10,456 INFO     0 Constants parsed
+2026-10-28 21:37:10,456 INFO     Grounding start: lunar-mission-3
+2026-10-28 21:37:10,460 INFO     Relevance analysis removed 6 facts
+2026-10-28 21:37:10,460 INFO     Grounding end: lunar-mission-3
+2026-10-28 21:37:10,460 INFO     62 Variables created
+2026-10-28 21:37:10,460 INFO     68 Operators created
+2026-10-28 21:37:10,460 INFO     Search start: lunar-mission-3
+2026-10-28 21:37:10,460 INFO     Initial h value: 50.000000
+2026-10-28 21:37:10,537 INFO     Goal reached. Start extraction of solution.
+2026-10-28 21:37:10,537 INFO     178 Nodes expanded
+2026-10-28 21:37:10,537 INFO     Search end: lunar-mission-3
+2026-10-28 21:37:10,537 INFO     Search time: 0.077
+2026-10-28 21:37:10,537 INFO     Plan length: 26
+2026-10-28 21:37:10,540 INFO     validate could not be found on the PATH so the plan can not be validated.
